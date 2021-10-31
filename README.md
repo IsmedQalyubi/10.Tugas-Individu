@@ -14,7 +14,7 @@ Kemudian dijalankan hasilnya:
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Screenshot%20(153).png) 
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Screenshot%20(154).png) 
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Screenshot%20(155).png) 
-![image](
+![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Screenshot%20(156).png) 
 ![image](
 2. Kemudian ketik ulang SC pada flowgorithm ke Vs- code, Jalankan sampai menemukan Hasil.
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Capture%2019.PNG) 
