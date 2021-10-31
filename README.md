@@ -20,5 +20,6 @@ Kemudian dijalankan hasilnya:
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Capture%2019.PNG) 
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Capture%2020.PNG) 
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Capture%2021.PNG) 
+Kemudian dijalankan hasilnya:
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Capture%2022.PNG) 
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Capture%2023.PNG) 
