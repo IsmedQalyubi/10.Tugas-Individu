@@ -11,8 +11,11 @@ Keliling Bangunan datar, Jalankan sesuai dengan inputan kalian sampai menemukan 
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Capture%2017.PNG) 
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Capture%2018.PNG)
 Kemudian dijalankan hasilnya:
+![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Screenshot%20(153).png) 
 ![image](
-
+![image](
+![image](
+![image](
 2. Kemudian ketik ulang SC pada flowgorithm ke Vs- code, Jalankan sampai menemukan Hasil.
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Capture%2019.PNG) 
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Capture%2020.PNG) 
