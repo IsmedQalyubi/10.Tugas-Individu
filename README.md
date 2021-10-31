@@ -12,7 +12,7 @@ Keliling Bangunan datar, Jalankan sesuai dengan inputan kalian sampai menemukan 
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Capture%2018.PNG)
 Kemudian dijalankan hasilnya:
 ![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Screenshot%20(153).png) 
-![image](
+![image](https://github.com/IsmedQalyubi/10.Tugas-Individu/blob/main/Screenshot%20(154).png) 
 ![image](
 ![image](
 ![image](
